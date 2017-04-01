@@ -1,7 +1,7 @@
 Pedestrian detector
 ====
 
-![](https://raw.githubusercontent.com/fridary/ultimate-graph/master/detector_1.jpg)
+![](https://raw.githubusercontent.com/fridary/pedestrian-detector/master/detector_1.jpg)
 
 Program detects pedestrians on image. It uses a binary classification. All data input is divided into two classes: the images which have a pedestrians and images in which it is not. The problem is to train a classifier so that a new input image will be able to determine whether it contains a pedestrian.
 
@@ -13,5 +13,5 @@ Here is a simple scheme of the classifier:
 Testing the classifier on the control sample.
 
 
-![](https://raw.githubusercontent.com/fridary/ultimate-graph/master/detector_2.jpg)
+![](https://raw.githubusercontent.com/fridary/pedestrian-detector/master/detector_2.jpg)
 
